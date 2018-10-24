@@ -12,5 +12,4 @@ All Around is a game where you try to destroy as many enemy circles as possible 
 
 To create the pixel aesthetic of the game I use a render texture from a camera sharing the exact position of the main camera. I then downsize the texture and display it on a quad. For the texture to maintain solid blocks of colour I avoid bi/trilinear filtering and stick to a point filter. Here is a before and after of the game without then with the downsizing technique:
 
-<img src="https://twood27897.github.io/assets/allaroundnofilter.gif" width="252" height="142">
-<img src="https://twood27897.github.io/assets/allaroundfilter.gif" width="252" height="142">
+<img src="https://twood27897.github.io/assets/allaroundnofilter.gif" width="252" height="142"> <img src="https://twood27897.github.io/assets/allaroundfilter.gif" width="252" height="142">
