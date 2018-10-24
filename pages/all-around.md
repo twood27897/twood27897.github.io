@@ -6,4 +6,4 @@ tagline: 'A game I made for PC in which you click to stop yourself from losing l
 description: A game I made for PC in which you click to stop yourself from losing lives while trying to hit enemies and miss friends
 ---
 
-![](allaroundpalettechange.gif)
+![GifMissing](twood27897.github.io/allaroundpalettechange.gif)
