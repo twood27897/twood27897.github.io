@@ -1,10 +1,10 @@
 ## Welcome to my Portfolio!
 
 ### Main Projects
-- [Shape Arcade](https://twood27897.github.io/pages/shape-arcade.html)
-- [Sketchtown Showdown](https://twood27897.github.io/pages/sketchtown-showdown.html)
 - [All Around](https://twood27897.github.io/pages/all-around.html)
-- [Direct3D/X 11 Showcase](https://twood27897.github.io/pages/direct11-showcase.html)
+
+### Old Projects
+- [Shape Arcade](https://twood27897.github.io/pages/shape-arcade.html)
 
 ```markdown
 Syntax highlighted code block
