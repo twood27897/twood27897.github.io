@@ -35,6 +35,6 @@ description: A game I made for PC in which you click to stop yourself from losin
   low resolution/palette swapping very modular so I can easily bring it into other projects. Those are for another time though.<br/>       <br/>
 </p>
   
-  Look at the backend: [https://github.com/twood27897/All-Around]
+  [https://github.com/twood27897/All-Around](https://github.com/twood27897/All-Around)<br/>
   Play the game: INSERT LINK TO ITCH.IO
 
