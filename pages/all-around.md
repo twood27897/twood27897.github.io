@@ -30,4 +30,9 @@ description: A game I made for PC in which you click to stop yourself from losin
   <img src="https://twood27897.github.io/assets/allaroundredbluepalette.gif" width="191" height="107">
   <img src="https://twood27897.github.io/assets/allaroundgreenpinkpalette.gif" width="191" height="107">
   <img src="https://twood27897.github.io/assets/allaroundorangewhitepalette.gif" width="191" height="107"><br/><br/>
+  
+  Some of my further ideas for this project are including greyscaling on runtime and downsizing the image in script. Those are for another   time though.<br/><br/>
+  
+  Look at the backend: INSERT LINK TO GITHUB REPO<br/>
+  Play the game: INSERT LINK TO ITCH.IO<br/>
 </p>
