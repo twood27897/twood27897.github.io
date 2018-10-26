@@ -26,6 +26,8 @@ description: A game I made for PC in which you click to stop yourself from losin
   through scripts. This variable is mapped to the y-coordinate when sampling the palette texture per pixel. The palette texture and the
   result of this shader can be seen below:<br/><br/>
   
-  <img src="https://twood27897.github.io/assets/palettes.png" width="400" height="300"><br/>
-  <img src="https://twood27897.github.io/assets/allaroundpalettechange.gif" width="382" height="215"><br/><br/>
+  <img src="https://twood27897.github.io/assets/palettes.png" width="200" height="150"><br/>
+  <img src="https://twood27897.github.io/assets/allaroundredbluepalette.gif" width="191" height="107">
+  <img src="https://twood27897.github.io/assets/allaroundgreenpinkpalette.gif" width="191" height="107">
+  <img src="https://twood27897.github.io/assets/allaroundorangewhitepalette.gif" width="191" height="107"><br/><br/>
 </p>
