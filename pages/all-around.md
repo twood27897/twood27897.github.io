@@ -6,7 +6,7 @@ tagline: 'A game I made for PC in which you click to stop yourself from losing l
 description: A game I made for PC in which you click to stop yourself from losing lives while trying to hit enemies and miss friends
 ---
 
-<p allign="center">
+<p align="center">
   <img src="https://twood27897.github.io/assets/allaroundpalettechange.gif" width="382" height="215">
 
   All Around is a game where you try to destroy as many enemy circles as possible while trying to avoid destroying friendly circles. The     main focus of this project for me was the visuals, I wanted to create a game with a definitive style and incorporate graphics programming   in some way. 
