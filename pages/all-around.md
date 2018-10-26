@@ -34,6 +34,6 @@ description: A game I made for PC in which you click to stop yourself from losin
   Some of my further ideas for this project are including greyscaling on runtime, downsizing the image in a shader and making the whole low
   resolution/palette swapping very modular so I can easily bring it into other projects. Those are for another time though.<br/><br/>
   
-  Look at the backend: [https://github.com/twood27897/All-Around](https://github.com/twood27897/All-Around)<br/>
+  Look at the backend: [link](https://github.com/twood27897/All-Around)<br/>
   Play the game: INSERT LINK TO ITCH.IO<br/>
 </p>
