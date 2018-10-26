@@ -36,5 +36,5 @@ description: A game I made for PC in which you click to stop yourself from losin
 </p>
   
 See the repository: [https://github.com/twood27897/All-Around](https://github.com/twood27897/All-Around)<br/>
-Play the game: INSERT LINK TO ITCH.IO
+Play the game: [https://helloimtw.itch.io/all-around](https://helloimtw.itch.io/all-around)<br/>
 
