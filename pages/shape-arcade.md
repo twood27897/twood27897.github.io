@@ -52,10 +52,25 @@ description: A game I made for Android and PC my first summer of university. It 
 <p align="center">
   Early testing and research meant I very quickly became aware of one of the main hurdles in mobile development - non-uniform devices
   sizes and capabilities. Pulling the screen height and width and using a portion of that allowed me to accommodate for swipes on
-  multiple sizes of device as it seems people tend to make bigger swipes on bigger screens and vice versa for smaller devices.
+  multiple sizes of device as it seems people tend to make bigger swipes on bigger screens and vice versa for smaller devices. The rest
+  of the project was pretty straight forward. Checking the scale, rotation and position of sprites against each other per minigame and
+  then reseting and adding speed if they are similar.<br/><br/>
   
-  The rest of the project was pretty straight forward. Checking the scale, rotation and position of sprites against each other per
-  minigame and then reseting and adding speed if they are similar. 
+  INSERT IMAGES OF GAMES<br/><br/>
+  
+  Now when I look through the project I can see a lot of ways to improve. Structually I could have streamlined everything by breaking it
+  down into smaller chunks - functions, separate classes and objects. For example I recreate very similar code for ending each game
+  individually when I could have very easily unified it. I also set different aspects of the transform manually accessing it each time
+  when I could have set up functions for setting the scale, rotation and position of transforms in a tools class.<br/><br/>
+  
+  The biggest mistake I made with this project however was not using source control during development. I attempted to implement a
+  highscore leaderboard using Google's Firebase SDK and got halfway through before hitting a wall that I couldn't get past and now the
+  project needs a lot of work to get back to a place where it can be built upon. Source control would have allowed me to easily roll
+  back to a version before I started this implementation and I could have had branches for the WebGL and Android builds as well as the
+  Firebase implementation.<br/><br/>
+  
+  Moving forward I don't think I am going to put more time into this project. It's nice to leave it the way it is as a reminder of how
+  far I've come and how much I've learnt. As my first completed game I am proud of it.
 </p>
 
 See the repository: [https://github.com/twood27897/Shape-Arcade](https://github.com/twood27897/Shape-Arcade)<br/>
