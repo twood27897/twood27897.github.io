@@ -7,7 +7,7 @@ description: A game I made for Android and PC my first summer of university. It 
 ---
 
 <p align="center">
-  INSERT INITIAL IMAGE<br/><br/>
+  <img src="https://twood27897.github.io/assets/shapearcademain.gif" width="491" height="292"><br/><br/>
   
   Shape Arcade is a collection of four highscore minigames where the player only ever needs to tap the screen. My main goals for the
   project were to complete a game and release it on mobile and PC to gain a better understanding of the full development cycle on a
@@ -56,7 +56,9 @@ description: A game I made for Android and PC my first summer of university. It 
   of the project was pretty straight forward. Checking the scale, rotation and position of sprites against each other per minigame and
   then reseting and adding speed if they are similar.<br/><br/>
   
-  INSERT IMAGES OF GAMES<br/><br/>
+  <img src="https://twood27897.github.io/assets/shapearcadecircle.gif" width="246" height="146">
+  <img src="https://twood27897.github.io/assets/shapearcadetriangle.gif" width="246" height="146">
+  <img src="https://twood27897.github.io/assets/shapearcadesquare.gif" width="246" height="146"><br/><br/>
   
   Now when I look through the project I can see a lot of ways to improve. Structually I could have streamlined everything by breaking it
   down into smaller chunks - functions, separate classes and objects. For example I recreate very similar code for ending each game
