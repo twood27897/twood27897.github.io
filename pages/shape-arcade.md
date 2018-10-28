@@ -16,7 +16,7 @@ description: A game I made for Android and PC my first summer of university. It 
   Putting the game on multiple platforms wasn't a massive challenge technically as I developed the game in Unity, which very easily
   allows for porting to multiple platforms. Instead the main challenge was in establishing different user inputs across different
   devices. While usually on PC I had no problem accessing key presses now I had to deal with touch input and try and figure out how to
-  read a swipe from the player. This is how I did it:<br/><br/>
+  read a swipe from the player. This is how I did it:
 </p>
 
 ```
@@ -57,5 +57,5 @@ description: A game I made for Android and PC my first summer of university. It 
   minigame and then reseting and adding speed if they are similar. 
 </p>
 
-[https://github.com/twood27897/Shape-Arcade](https://github.com/twood27897/Shape-Arcade)<br/>
-[https://helloimtw.itch.io/shape-arcade](https://helloimtw.itch.io/shape-arcade)<br/><br/>
+See the repository:[https://github.com/twood27897/Shape-Arcade](https://github.com/twood27897/Shape-Arcade)<br/>
+Play the game:[https://helloimtw.itch.io/shape-arcade](https://helloimtw.itch.io/shape-arcade)<br/><br/>
