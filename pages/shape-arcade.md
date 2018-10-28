@@ -48,6 +48,7 @@ description: A game I made for Android and PC my first summer of university. It 
     // Execute appropriate action based on outcome
   }
 ```
+
 <p align="center">
   Early testing and research meant I very quickly became aware of one of the main hurdles in mobile development - non-uniform devices
   sizes and capabilities. Pulling the screen height and width and using a portion of that allowed me to accommodate for swipes on
@@ -57,5 +58,5 @@ description: A game I made for Android and PC my first summer of university. It 
   minigame and then reseting and adding speed if they are similar. 
 </p>
 
-See the repository:[https://github.com/twood27897/Shape-Arcade](https://github.com/twood27897/Shape-Arcade)<br/>
-Play the game:[https://helloimtw.itch.io/shape-arcade](https://helloimtw.itch.io/shape-arcade)<br/><br/>
+See the repository: [https://github.com/twood27897/Shape-Arcade](https://github.com/twood27897/Shape-Arcade)<br/>
+Play the game: [https://helloimtw.itch.io/shape-arcade](https://helloimtw.itch.io/shape-arcade)<br/><br/>
