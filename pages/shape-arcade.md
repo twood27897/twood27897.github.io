@@ -48,7 +48,8 @@ description: A game I made for Android and PC my first summer of university. It 
       // Execute appropriate action based on outcome
     }
     
-  ```<br/><br/>
+  ```
+  <br/><br/>
   
   Early testing and research meant I very quickly became aware of one of the main hurdles in mobile development - non-uniform devices
   sizes and capabilities. Pulling the screen height and width and using a portion of that allowed me to accommodate for swipes on
