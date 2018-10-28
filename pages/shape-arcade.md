@@ -19,33 +19,35 @@ description: A game I made for Android and PC my first summer of university. It 
   read a swipe from the player. This is how I did it:<br/><br/>
   
   '''markdown
-  // Get current touch
-  Touch touch = Input.GetTouch(0);
+  
+    // Get current touch
+    Touch touch = Input.GetTouch(0);
     
-  // Current touch just began
-  if (touch.phase == TouchPhase.Began)
-  {
-    // Save initial position of touch
-    firstPressPos = touch.position;
-  }
-  // Current touch just ended
-  if (touch.phase == TouchPhase.Ended)
-  {
-    // Take end point of touch
-    secondPressPos = touch.position;
+    // Current touch just began
+    if (touch.phase == TouchPhase.Began)
+    {
+      // Save initial position of touch
+      firstPressPos = touch.position;
+    }
+    // Current touch just ended
+    if (touch.phase == TouchPhase.Ended)
+    {
+      // Take end point of touch
+      secondPressPos = touch.position;
       
-    // Find direction between beginning and end of touch and normalize it
-    currentSwipe = secondPressPos - firstPressPos;
-    Vector2 currentSwipeNormalized = currentSwipe.normalized;
+      // Find direction between beginning and end of touch and normalize it
+      currentSwipe = secondPressPos - firstPressPos;
+      Vector2 currentSwipeNormalized = currentSwipe.normalized;
       
-    // Find one tenth of screen width and height
-    float w = Screen.width / 10;
-    float h = Screen.height / 10;
+      // Find one tenth of screen width and height
+      float w = Screen.width / 10;
+      float h = Screen.height / 10;
       
-    // Make checks between touch size and screen w and h
-    // Check direction of touch if large enough
-    // Execute appropriate action based on outcome
-  }
+      // Make checks between touch size and screen w and h
+      // Check direction of touch if large enough
+      // Execute appropriate action based on outcome
+    }
+    
   '''<br/><br/>
   
   Early testing and research meant I very quickly became aware of one of the main hurdles in mobile development - non-uniform devices
