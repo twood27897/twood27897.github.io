@@ -9,3 +9,5 @@ description: A program which creates a julia fractal in real time based on the p
 A program which creates a julia fractal in real time based on the position of the mouse. Multithreaded on the GPU using the C++ amp library and CImg for rendering the window.<br\><br\>
 
 <video src="https://www.youtube.com/embed/qNfirHbAqv0" width="560" height="315" controls preload></video>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNfirHbAqv0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
