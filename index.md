@@ -1,9 +1,8 @@
 ## Welcome to my Portfolio!
 
-### Main Projects
+### Projects
+- [Multithreaded Interactive Julia Fractal](https://twood27897.github.io/pages/multithreaded-julia.html)
 - [All Around](https://twood27897.github.io/pages/all-around.html)
-
-### Old Projects
 - [Shape Arcade](https://twood27897.github.io/pages/shape-arcade.html)
 
 ```markdown
