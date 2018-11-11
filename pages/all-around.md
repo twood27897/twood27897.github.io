@@ -11,3 +11,7 @@ across the screen. The main focus of this project for me was the visuals, I want
 graphics programming in some way.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/egplX0ltRlY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Read the blog post: [https://github.com/twood27897/All-Around-Blog](https://github.com/twood27897/All-Around-Blog)<br/>
+See the repository: [https://github.com/twood27897/All-Around](https://github.com/twood27897/All-Around)<br/>
+Play the game: [https://helloimtw.itch.io/all-around](https://helloimtw.itch.io/all-around)<br/>
