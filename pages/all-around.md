@@ -10,7 +10,7 @@ All Around is a game where you click to stop yourself from losing lives while tr
 across the screen. The main focus of this project for me was the visuals, I wanted to create a game with a definitive style and incorporate
 graphics programming in some way.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/egplX0ltRlY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/egplX0ltRlY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/><br/>
 
 Read the blog post: [https://github.com/twood27897/All-Around-Blog](https://github.com/twood27897/All-Around-Blog)<br/>
 See the repository: [https://github.com/twood27897/All-Around](https://github.com/twood27897/All-Around)<br/>
