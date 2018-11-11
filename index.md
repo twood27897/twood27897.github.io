@@ -4,6 +4,8 @@
 - [Multithreaded Interactive Julia Fractal](https://twood27897.github.io/pages/multithreaded-julia.html)
 - [All Around](https://twood27897.github.io/pages/all-around.html)
 - [Shape Arcade](https://twood27897.github.io/pages/shape-arcade.html)
+- [ET-FM](https://twood27897.github.io/pages/et-fm.html)
+- [Sketchtown Showdown](https://twood27897.github.io/pages/sketchtown-showdown.html)
 
 ```markdown
 Syntax highlighted code block
