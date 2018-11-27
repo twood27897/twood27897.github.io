@@ -1,5 +1,3 @@
-<p align="center">
-
 # Welcome to my Portfolio!
 
 ## Projects
@@ -17,5 +15,3 @@
 
 [![Shape Arcade](http://twood27897.github.io/assets/shapearcadethumbnail.png)](https://twood27897.github.io/pages/shape-arcade.html)
 [Shape Arcade](https://twood27897.github.io/pages/shape-arcade.html)<br>
-
-</p>
