@@ -1,36 +1,13 @@
 ## Welcome to my Portfolio!
 
 ### Projects
-- [Multithreaded Interactive Julia Fractal](https://twood27897.github.io/pages/multithreaded-julia.html)
-- [All Around](https://twood27897.github.io/pages/all-around.html)
-- [Shape Arcade](https://twood27897.github.io/pages/shape-arcade.html)
-- [ET-FM](https://twood27897.github.io/pages/et-fm.html)
-- [Sketchtown Showdown](https://twood27897.github.io/pages/sketchtown-showdown.html)
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/twood27897/twood27897.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[![Multithreaded Interactive Julia Fractal](http://twood27897.github.io/assets/fractalthumbnail.png)](https://twood27897.github.io/pages/multithreaded-julia.html)
+[Multithreaded Interactive Julia Fractal](https://twood27897.github.io/pages/multithreaded-julia.html)
+[![All Around](http://twood27897.github.io/assets/allaroundthumbnail.png)](https://twood27897.github.io/pages/all-around.html)
+[All Around](https://twood27897.github.io/pages/all-around.html)
+[![Shape Arcade](http://twood27897.github.io/assets/shapearcadethumbnail.png)](https://twood27897.github.io/pages/shape-arcade.html)
+[Shape Arcade](https://twood27897.github.io/pages/shape-arcade.html)
+[![ET-FM](http://twood27897.github.io/assets/etfmthumbnail.png)](https://twood27897.github.io/pages/et-fm.html)
+[ET-FM](https://twood27897.github.io/pages/et-fm.html)
+[![Skecthtown Showdown](http://twood27897.github.io/assets/sketchtownthumbnail.png)](https://twood27897.github.io/pages/sketchtown-showdown.html)
+[Sketchtown Showdown](https://twood27897.github.io/pages/sketchtown-showdown.html)
