@@ -4,6 +4,11 @@
 
 # Welcome to my Portfolio!
 
+[![DirectX Shader Study](http://twood27897.github.io/assets/directxthumbnail.png)](https://twood27897.github.io/pages/directx.html)<br>
+<p align="center">
+<a href="https://twood27897.github.io/pages/directx.html" rel="Directx Shader Study">Directx Shader Study</a>
+</p><br><br>
+
 [![Skecthtown Showdown](http://twood27897.github.io/assets/sketchtownthumbnail.png)](https://twood27897.github.io/pages/sketchtown-showdown.html)<br>
 <p align="center">
 <a href="https://twood27897.github.io/pages/sketchtown-showdown.html" rel="Skecthtown Showdown">Skecthtown Showdown</a>
