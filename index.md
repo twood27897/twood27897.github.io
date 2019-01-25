@@ -9,6 +9,11 @@
 <a href="https://twood27897.github.io/pages/sketchtown-showdown.html" rel="Skecthtown Showdown">Skecthtown Showdown</a>
 </p><br><br>
 
+[![Inverse Kinematics Solution](http://twood27897.github.io/assets/inversekinematicsthumbnail.png)](https://twood27897.github.io/pages/inverse-kinematics.html)<br>
+<p align="center">
+<a href="https://twood27897.github.io/pages/inverse-kinematics.html" rel="Inverse Kinematics Solution">Inverse Kinematics Solution</a>
+</p><br><br>
+
 [![DirectX Shader Study](http://twood27897.github.io/assets/directxthumbnail.png)](https://twood27897.github.io/pages/directx.html)<br>
 <p align="center">
 <a href="https://twood27897.github.io/pages/directx.html" rel="Directx Shader Study">Directx Shader Study</a>
