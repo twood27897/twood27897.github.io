@@ -1,2 +1,4 @@
 title: Hello, I'm Thomas Wood
 description: A programmer, creative, game developer and Computer Games Technology student aspiring to work in the games industry.
+plugins: 
+  - jekyll-seo-tag
