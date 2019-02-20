@@ -6,7 +6,6 @@
 
 ## Personal Projects
 
-<p align="center">
 [![Inverse Kinematics Solution](http://twood27897.github.io/assets/inversekinematicsthumbnail.png)](https://twood27897.github.io/pages/inverse-kinematics.html)<br>
 <a href="https://twood27897.github.io/pages/inverse-kinematics.html" rel="Inverse Kinematics Solution">Inverse Kinematics Solution</a>
 <br><br>
@@ -26,11 +25,9 @@
 [![Shape Arcade](http://twood27897.github.io/assets/shapearcadethumbnail.png)](https://twood27897.github.io/pages/shape-arcade.html)<br>
 <a href="https://twood27897.github.io/pages/shape-arcade.html" rel="Shape Arcade">Shape Arcade</a>
 <br><br>
-</p>
 
 ## Team Projects
 
-<p align="center">
 [![Skecthtown Showdown](http://twood27897.github.io/assets/sketchtownthumbnail.png)](https://twood27897.github.io/pages/sketchtown-showdown.html)<br>
 <a href="https://twood27897.github.io/pages/sketchtown-showdown.html" rel="Skecthtown Showdown">Skecthtown Showdown</a>
 <br><br>
@@ -38,4 +35,3 @@
 [![ET-FM](http://twood27897.github.io/assets/etfmthumbnail.png)](https://twood27897.github.io/pages/et-fm.html)<br>
 <a href="https://twood27897.github.io/pages/et-fm.html" rel="ET-FM">ET-FM</a>
 <br><br>
-</p>
