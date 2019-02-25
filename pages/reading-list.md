@@ -1,3 +1,14 @@
+# Welcome to my Portfolio!
+
+<a href="https://twood27897.github.io/pages/about.html" rel="About Me">About Me</a>
+<br>
+
+<a href="https://twood27897.github.io/pages/projects.html" rel="Projects">Projects</a>
+<br>
+
+Reading List
+<br>
+
 ## Reading List
 A list of the books I have used or still do.
 
