@@ -15,12 +15,12 @@ Reading List
 ## Reading List
 A list of books I like. This is an ongoing exploration of everything there is to know about games and programming, so if you have any suggestions please let me know through any of my contact points.
 
-Game Programming Patterns by Robert Nystrom
+**Game Programming Patterns** by Robert Nystrom
 
-Artificial Intelligence for Games by Ian Millington and John David Funge
+**Artificial Intelligence for Games** by Ian Millington and John David Funge
 
-Real-Time Rendering 3rd Edition by Tomas Akenine-Moller, Eric Haines and Naty Hoffman
+**Real-Time Rendering 3rd Edition** by Tomas Akenine-Moller, Eric Haines and Naty Hoffman
 
-GPU Gems 3 edited by Hubert Nguyen
+**GPU Gems 3** edited by Hubert Nguyen
 
-Practical Rendering and Computation with Direct3D 11 by Jack Hoxley, Jason Zink, and Matt Pettineo
+**Practical Rendering and Computation with Direct3D 11** by Jack Hoxley, Jason Zink, and Matt Pettineo
