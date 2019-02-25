@@ -9,6 +9,9 @@ Projects
 <a href="https://twood27897.github.io/pages/reading-list.html" rel="Reading List">Reading List</a>
 <br>
 
+<a href="https://twood27897.github.io/pages/contact.html" rel="Contact">Contact</a>
+<br>
+
 ## Personal Projects
 
 [![Inverse Kinematics Solution](http://twood27897.github.io/assets/inversekinematicsthumbnail.png)](https://twood27897.github.io/pages/inverse-kinematics.html)<br>
