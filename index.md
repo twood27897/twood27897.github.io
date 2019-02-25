@@ -4,6 +4,15 @@
 
 # Welcome to my Portfolio!
 
+<a href="https://twood27897.github.io/pages/about.html" rel="About Me">About Me</a>
+<br>
+
+<a href="https://twood27897.github.io/pages/projects.html" rel="Projects">Projects</a>
+<br>
+
+<a href="https://twood27897.github.io/pages/reading-list.html" rel="Reading List">Reading List</a>
+<br>
+
 ## Personal Projects
 
 [![Inverse Kinematics Solution](http://twood27897.github.io/assets/inversekinematicsthumbnail.png)](https://twood27897.github.io/pages/inverse-kinematics.html)<br>
