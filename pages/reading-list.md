@@ -1,4 +1,5 @@
-A list of the books I have used or still do to help me
+## Reading List
+A list of the books I have used or still do.
 
 Game Programming Patterns
 
