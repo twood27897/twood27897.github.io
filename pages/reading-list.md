@@ -9,6 +9,9 @@
 Reading List
 <br>
 
+<a href="https://twood27897.github.io/pages/contact.html" rel="Contact">Contact</a>
+<br>
+
 ## Reading List
 A list of books I like. This is an ongoing exploration of everything there is to know about games and programming, so if you have any suggestions please let me know through any of my contact points.
 
