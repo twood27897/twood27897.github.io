@@ -13,6 +13,9 @@ About Me
 <a href="https://twood27897.github.io/pages/reading-list.html" rel="Reading List">Reading List</a>
 <br>
 
+<a href="https://twood27897.github.io/pages/contact.html" rel="Contact">Contact</a>
+<br>
+
 ## About Me
 
 Currently in third year of Computer Games Technology at Abertay University. Learning, making and playing while gaining experience with C++, DirectX, C#, SQL, OpenGL, SFML, Python and more. Maintaining an A grade average across all modules and continually improving and gaining confidence.
