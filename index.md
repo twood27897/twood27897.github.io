@@ -21,7 +21,7 @@ Projects
     <td><b style="color:black;font-size:20px"><p align="center">Personal Projects</p></b></td>
     <td><b style="color:black;font-size:20px"><p align="center">Team Projects</p></b></td>
   </tr>
-  <tr>
+  <tr valign="top">
     <td>
 <p align="center">
 <a href="https://twood27897.github.io/pages/inverse-kinematics.html">
