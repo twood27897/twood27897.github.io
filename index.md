@@ -22,7 +22,6 @@ Projects
     <td><b style="color:black;font-size:20px"><p align="center">Team Projects</p></b></td>
   </tr>
   <tr valign="top">
-    
     <td>
 <p align="center">
 <a href="https://twood27897.github.io/pages/inverse-kinematics.html">
@@ -54,7 +53,6 @@ Projects
 <a href="https://twood27897.github.io/pages/shape-arcade.html" rel="Shape Arcade">Shape Arcade</a>
 </p><br><br>
     </td>
-    
     <td>
 <p align="center">
 <a href="https://twood27897.github.io/pages/sketchtown-showdown.html">
