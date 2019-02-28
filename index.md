@@ -18,8 +18,11 @@ Projects
 
 ## Personal Projects
 
-[![Inverse Kinematics Solution](http://twood27897.github.io/assets/inversekinematicsthumbnail.png)](https://twood27897.github.io/pages/inverse-kinematics.html)<br>
+[//]: # ([![Inverse Kinematics Solution](http://twood27897.github.io/assets/inversekinematicsthumbnail.png)](https://twood27897.github.io/pages/inverse-kinematics.html))
+
 <p align="center">
+<a href="https://twood27897.github.io/pages/inverse-kinematics.html">
+<img border="0" alt="InverseKinematics" src="http://twood27897.github.io/assets/inversekinematicsthumbnail.png" width="256" height="144"></a><br>
 <a href="https://twood27897.github.io/pages/inverse-kinematics.html" rel="Inverse Kinematics Solution">Inverse Kinematics Solution</a>
 </p><br><br>
 
