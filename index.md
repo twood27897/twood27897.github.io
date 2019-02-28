@@ -18,8 +18,8 @@ Projects
 
 <table border="0">
   <tr>
-    <td><b style="font-size:30px">Personal Projects</b></td>
-    <td><b style="font-size:30px">Team Projects</b></td>
+    <td><b style="color:black;font-size:20px">Personal Projects</b></td>
+    <td><b style="color:black;font-size:20px">Team Projects</b></td>
   </tr>
   <tr>
     <td>
