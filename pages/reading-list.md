@@ -17,6 +17,10 @@ A list of books I like. This is an ongoing exploration of everything there is to
 
 **Game Programming Patterns** by Robert Nystrom
 
+**Effective C++, Third Edition** by Scott Meyers
+
+**Creativity, Inc.: Overcoming the Unseen Forces That Stand in the Way of True Inspiration** by Amy Wallace and Edwin Catmull
+
 **Artificial Intelligence for Games** by Ian Millington and John David Funge
 
 **Real-Time Rendering 3rd Edition** by Tomas Akenine-Moller, Eric Haines and Naty Hoffman
