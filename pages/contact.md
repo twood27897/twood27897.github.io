@@ -15,7 +15,7 @@ Contact
 ## Contact Me
 My main preferred methods of contact.
 
-**Email:** helloimtw@gmail.com
+**Email:** helloimtw@outlook.com
 
 **Phone:** 07715899554
 
