@@ -21,4 +21,4 @@ My main preferred methods of contact.
 
 **Twitter:** <a href="https://twitter.com/helloimtw" rel="twitter.com/helloimtw">twitter.com/helloimtw</a>
 
-**LinkedIn:** <a href="https://www.linkedin.com/in/thomas-wood-games/" rel="linkedin.com/in/thomas-wood-games">linkedin.com/in/thomas-wood-games</a>
+**LinkedIn:** <a href="https://www.linkedin.com/in/helloimtw/" rel="linkedin.com/in/helloimtw">linkedin.com/in/helloimtw</a>
