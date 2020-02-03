@@ -20,6 +20,12 @@ Projects
   <tr valign="top">
     <td>
 <p align="center">
+<a href="https://twood27897.github.io/pages/tmp-extension.html">
+<img border="0" alt="TextMeshPro Extension" src="http://twood27897.github.io/assets/tmpextensionthumbnail.png" width="256" height="144"></a><br>
+<a href="https://twood27897.github.io/pages/tmp-extension.html" rel="TextMeshPro Extension">TextMeshPro Extension</a>
+</p><br><br>
+      
+<p align="center">
 <a href="https://twood27897.github.io/pages/inverse-kinematics.html">
 <img border="0" alt="InverseKinematics" src="http://twood27897.github.io/assets/inversekinematicsthumbnail.png" width="256" height="144"></a><br>
 <a href="https://twood27897.github.io/pages/inverse-kinematics.html" rel="Inverse Kinematics Solution">Inverse Kinematics Solution</a>
