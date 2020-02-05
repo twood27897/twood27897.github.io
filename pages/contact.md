@@ -16,7 +16,7 @@ Contact
 <br>
 
 ## Contact Me
-My main preferred methods of contact.
+My preferred methods of contact.
 
 **Email:** helloimtw@outlook.com
 
