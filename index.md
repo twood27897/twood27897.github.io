@@ -10,6 +10,9 @@
 Projects
 <br>
 
+<a href="https://twood27897.github.io/pages/blogs.html" rel="Blogs">Blogs</a>
+<br>
+
 <a href="https://twood27897.github.io/pages/reading-list.html" rel="Reading List">Reading List</a>
 <br>
 
