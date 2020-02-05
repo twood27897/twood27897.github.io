@@ -3,7 +3,10 @@
 <a href="https://twood27897.github.io/pages/about.html" rel="About Me">About Me</a>
 <br>
 
-<a href="https://twood27897.github.io/pages/projects.html" rel="Projects">Projects</a>
+<a href="https://twood27897.github.io" rel="Projects">Projects</a>
+<br>
+
+<a href="https://twood27897.github.io/pages/blogs.html" rel="Blogs">Blogs</a>
 <br>
 
 <a href="https://twood27897.github.io/pages/reading-list.html" rel="Reading List">Reading List</a>
