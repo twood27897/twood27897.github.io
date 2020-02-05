@@ -15,7 +15,7 @@ Blogs
 <a href="https://twood27897.github.io/pages/contact.html" rel="Contact">Contact</a>
 <br>
 
-<table border="1" frame=void rules=rows>
+<table border="0">
   <tr>
     <td><b style="color:black;font-size:20px"><p align="center">Blogs</p></b></td>
   </tr>
