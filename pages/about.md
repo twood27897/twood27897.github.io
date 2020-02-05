@@ -6,7 +6,7 @@ About Me
 <a href="https://twood27897.github.io" rel="Projects">Projects</a>
 <br>
 
-<a href="https://twood27897.github.io/blogs.html" rel="Blogs">Blogs</a>
+<a href="https://twood27897.github.io/pages/blogs.html" rel="Blogs">Blogs</a>
 <br>
 
 <a href="https://twood27897.github.io/pages/reading-list.html" rel="Reading List">Reading List</a>
