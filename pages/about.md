@@ -3,7 +3,7 @@
 About Me
 <br>
 
-<a href="https://twood27897.github.io/index.html" rel="Projects">Projects</a>
+<a href="https://twood27897.github.io" rel="Projects">Projects</a>
 <br>
 
 <a href="https://twood27897.github.io/blogs.html" rel="Blogs">Blogs</a>
