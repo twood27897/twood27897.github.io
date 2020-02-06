@@ -16,10 +16,9 @@ Blogs
 <br>
 
 ## Blogs
-<br>
 
 <dt><a href="https://twood27897.github.io/pages/all-around-blog.html" rel="All Around Blog">All Around Blog</a></dt>
-<dd>Nov 2018</dd>
+<dd>Nov 2018</dd><br>
 
 <dt><a href="https://twood27897.github.io/pages/shape-arcade-blog.html" rel="Shape Arcade Blog">Shape Arcade Blog</a></dt>
-<dd>Nov 2018></dd>
+<dd>Nov 2018></dd><br>
