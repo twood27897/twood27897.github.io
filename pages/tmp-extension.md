@@ -10,4 +10,4 @@ Recently, I've been thinking about starting to create tools and packages for Uni
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uvU7vNegg8s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/>
 
-See the repository: [github.com/twood27897/customtextmeshpro](https://github.com/twood27897/customtextmeshpro)<br/>
+See the repository: [github.com/twood27897/customtextmeshpro/commits/master](https://github.com/twood27897/customtextmeshpro/commits/master)<br/>
