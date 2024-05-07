@@ -18,6 +18,10 @@ Reading List
 ## Reading List
 A list of books I like. This is an ongoing exploration of everything there is to know about games and programming, so if you have any suggestions please let me know through any of my contact points.
 
+**The Design of Everyday Things** by Donald A. Norman
+
+**A Theory of Fun for Game Design** by Raph Koster
+
 **Game Programming Patterns** by Robert Nystrom
 
 **Effective C++, Third Edition** by Scott Meyers
