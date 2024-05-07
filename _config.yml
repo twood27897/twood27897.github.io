@@ -1,7 +1,7 @@
 theme: jekyll-theme-minimal
 title: Hello, I'm Tom Wood
 logo: /assets/portrait.png
-description: A designer, programmer, creative and game developer
+description: An aspiring tech designer, programmer and game developer
 future: true
 plugins: 
   - jekyll-seo-tag
