@@ -17,7 +17,9 @@ About Me
 
 ## About Me
 
-Working on Everwild - a brand new world in development at Rare where unique and unforgettable experiences will await! Gaining my first AAA industry experience writing C++, writing unit tests, using Perforce. and so much more as part of the gameplay team. Absorbing as much knowledge as I can and learning so so much from everyone around me.
+Looking to work as a Technical Designer or Gameplay Scripter in the Games Industry!
+
+Previously worked on Everwild - a brand new world in development at Rare where unique and unforgettable experiences will await! Gained my first 4 years of AAA industry experience writing C++, using visual scripting languages, working closely with design and code, writing unit tests, using Perforce and so much more as part of the gameplay team. Absorbing as much knowledge as I can and learning so much from everyone around me.
 
 Previously studied Computer Games Technology at Abertay University. Learning, making and playing while gaining experience with C++, DirectX, C#, OpenGL, SFML, Python and more. Averaging an A grade across all modules and continually improving and gaining confidence.
 
