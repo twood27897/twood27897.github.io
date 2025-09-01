@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'TEXT MESH PRO EXTENSION'
+title: 'Text Mesh Pro Extension'
 author: Thomas Wood
 tagline: 'I extended the TextMeshPro Unity package to include three new tags, which have runtime affects on text'
 description: I extended the TextMeshPro Unity package to include three new tags, which have runtime affects on text
