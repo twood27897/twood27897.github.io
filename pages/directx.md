@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'DIRECTX SHADERS'
+title: 'DirectX Shaders'
 author: Thomas Wood
 tagline: 'Shaders written in DirectX to make up a scene and test the graphics pipeline'
 description: Shaders written in DirectX to make up a scene and test the graphics pipeline
