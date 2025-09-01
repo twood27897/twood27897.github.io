@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'THE WHALE GAME'
+title: 'The Whale Game'
 author: Thomas Wood
 tagline: 'An experimental incremental game I made for PC'
 description: An experimental incremental game I made for PC
