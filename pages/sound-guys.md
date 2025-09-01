@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'SOUND GUYS'
+title: 'Sound Guys'
 author: Thomas Wood
 tagline: 'An incremental music sequencer game I made'
 description: An incremental music sequencer game I made
