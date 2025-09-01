@@ -8,7 +8,4 @@ description: An experimental incremental game I made for PC
 
 The Whale Game is a project I created to push my game development skills. A 3D puzzle room centred on a 2D incremental game, The Whale Game required me to design a 2D and a 3D game and balance the players attention and motivation between them. I finished the first act of the game over a 6 month period, which you can play now for free. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/egplX0ltRlY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/>
-
-See the repository: [github.com/twood27897/All-Around](https://github.com/twood27897/All-Around)<br/>
-Play the game: [helloimtw.itch.io/all-around](https://helloimtw.itch.io/all-around)<br/>
+See the repository: [github.com/twood27897/THE-WHALE-GAME](https://github.com/twood27897/THE-WHALE-GAME)<br/>
