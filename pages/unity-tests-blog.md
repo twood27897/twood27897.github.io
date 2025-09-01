@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'UNITY TEST RUNNER BLOG'
+title: 'Unity Test Runner Blog'
 author: Thomas Wood
 tagline: 'My short exploration into Unity Test Runner'
 description: 'My short exploration into Unity Test Runner'
