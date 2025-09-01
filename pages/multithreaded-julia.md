@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'INTERACTIVE MULTITHREADED JULIA FRACTAL'
+title: 'Interactive Multithreaded Julia Fractal'
 author: Thomas Wood
 tagline: 'A program which creates a julia fractal in real time based on the position of the mouse. To achieve this the program was multithreaded on the GPU.'
 description: A program which creates a julia fractal in real time based on the position of the mouse. To achieve this the program was multithreaded on the GPU.
