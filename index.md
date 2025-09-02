@@ -25,7 +25,19 @@ Projects
     <td><b style="color:black;font-size:20px"><p align="center">Team Projects</p></b></td>
   </tr>
   <tr valign="top">
-    <td>
+    <td>      
+<p align="center">
+<a href="https://twood27897.github.io/pages/whale-game.html">
+<img border="0" alt="The Whale Game" src="http://twood27897.github.io/assets/whalegamethumbnail.png" width="256" height="144"></a><br>
+<a href="https://twood27897.github.io/pages/whale-game.html" rel="The Whale Game">The Whale Game</a>
+</p><br><br>
+
+<p align="center">
+<a href="https://twood27897.github.io/pages/sound-guys.html">
+<img border="0" alt="Sound Guys" src="http://twood27897.github.io/assets/soundguysthumbnail.png" width="256" height="144"></a><br>
+<a href="https://twood27897.github.io/pages/sound-guys.html" rel="Sound Guys">Sound Guys</a>
+</p><br><br>
+
 <p align="center">
 <a href="https://twood27897.github.io/pages/tmp-extension.html">
 <img border="0" alt="TextMeshPro Extension" src="http://twood27897.github.io/assets/tmpextensionthumbnail.png" width="256" height="144"></a><br>
