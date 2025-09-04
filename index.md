@@ -84,7 +84,7 @@ Projects
 <p align="center">
 <a href="https://twood27897.github.io/pages/sketchtown-showdown.html">
 <img border="0" alt="SketchtownShowdown" src="http://twood27897.github.io/assets/sketchtownthumbnail.png" width="256" height="144"></a><br>
-<a href="https://twood27897.github.io/pages/sketchtown-showdown.html" rel="Skecthtown Showdown">Skecthtown Showdown</a>
+<a href="https://twood27897.github.io/pages/sketchtown-showdown.html" rel="Sketchtown Showdown">Sketchtown Showdown</a>
 </p><br><br>
 
 <p align="center">
