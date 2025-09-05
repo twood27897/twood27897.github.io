@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'A quick summary of the last 2 years'
+title: 'A Quick Summary Of The Last 2 Years'
 author: Thomas Wood
-tagline: 'A quick summary of the last 2 years'
-description: A quick summary of the last 2 years
+tagline: 'A Quick Summary Of The Last 2 Years'
+description: A Quick Summary Of The Last 2 Years
 ---
 
 <p align="center">
