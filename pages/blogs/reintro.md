@@ -18,14 +18,14 @@ description: A Quick Summary Of The Last 2 Years
   <img src="https://twood27897.github.io/assets/thehobbit.gif" width="235" height="192"><br/><sup><i>me, now</i></sup><br/><br/>
   
   So, what's next? I'm not sure! Or I am sure, but only of some of it (a condition that I hear is suffered by many). I am sure:
-  1. I want to make more games
-  2. I want to work as part of a team<br/><br/>
+  <ol type="1"><li>I want to make more games</li>
+  <li>I want to work as part of a team</li></ol><br/>
 
 I am not sure:
-1. What games I want to make
-2. Who I want to make them with<br/><br/>
+<ol type="1"><li>What games I want to make</li>
+<li>Who I want to make them with</li></ol><br/>
 
 In the meantime, I've decided I'm going to write some blogs (like this one!). Start documenting what I've been up to, collect my thoughts, puzzle through some design/programming and build up to finding the game and team that's next. And I'll probably make some more stuff while I'm doing it.<br/><br/>
   
-  <img src="https://twood27897.github.io/assets/ferrisbueller.gif" width="261" height="192"><br/><sup><i>me, continuing to plaster this blog with movie quotes that are only vaguely relevant<br/>like filling a house with live laugh love quotes sorry about that i got carried away anyway thanks for<br/>reading and have a good day</i></sup>
+  <img src="https://twood27897.github.io/assets/ferrisbueller.gif" width="261" height="192"><br/><sup><i>me, continuing to plaster this blog with movie quotes that are only vaguely relevant like stuffing a tiny house with live laugh love quotes sorry about that i got carried away anyway thanks for reading and have a good day</i></sup>
 </p>
