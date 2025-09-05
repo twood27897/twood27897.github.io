@@ -17,13 +17,9 @@ description: A Quick Summary Of The Last 2 Years
   
   <img src="https://twood27897.github.io/assets/thehobbit.gif" width="235" height="192"><br/><sup><i>me, now</i></sup><br/><br/>
   
-  So, what's next? I'm not sure! Or I am sure, but only of some of it (a condition that I hear is suffered by many). I am sure:
-  <ol type="1"><li>I want to make more games</li>
-  <li>I want to work as part of a team</li></ol><br/>
+  So, what's next? I'm not sure! Or I am sure, but only of some of it (a condition that I hear is suffered by many). I am sure:<ol type="1"><li>I want to make more games</li><li>I want to work as part of a team</li></ol><br/><p align="center">
 
-I am not sure:
-<ol type="1"><li>What games I want to make</li>
-<li>Who I want to make them with</li></ol><br/>
+I am not sure:<ol type="1"><li>What games I want to make</li><li>Who I want to make them with</li></ol><br/><p align="center">
 
 In the meantime, I've decided I'm going to write some blogs (like this one!). Start documenting what I've been up to, collect my thoughts, puzzle through some design/programming and build up to finding the game and team that's next. And I'll probably make some more stuff while I'm doing it.<br/><br/>
   
