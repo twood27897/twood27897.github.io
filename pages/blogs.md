@@ -19,6 +19,9 @@ Blogs
 I consider these <i>"blogs"</i> more as notes on a variety of technical things I've done or looked at, allowing me to record and explore ideas smaller than personal projects. The first two blogs are the first two entries I originally wrote for my portfolio - which I discarded in favour of much shorter entries - but now they have found a new home here.<br>
 
 <p align="center">
+<dt><a href="https://twood27897.github.io/pages/blogs/soundguysprogression.html" rel="Progression In Sound Guys">Progression In Sound Guys</a></dt>
+<dd><i>12th September 2025</i></dd><br>
+  
 <dt><a href="https://twood27897.github.io/pages/blogs/reintro.html" rel="A Quick Summary Of The Last 2 Years">A Quick Summary Of The Last 2 Years</a></dt>
 <dd><i>5th September 2025</i></dd><br>
 
