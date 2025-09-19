@@ -31,7 +31,7 @@ A lot of the learning for me in creating this game was in the open world-ness of
   Created for a Halloween party me and my flatmates hosted, this was the first time I ever tried to make a horror game. In the cleverly titled Horror Flat Party Game, you are returning to our now haunted Halloween party after you accidently left your keys behind. Oops!<br/><br/>
   
 <p align="center">
-  <img src="https://twood27897.github.io/assets/horrorflatpartygame.gif" width="192" height="192"><br/><sup><i>me, two years ago</i></sup><br/><br/>
+  <img src="https://twood27897.github.io/assets/horrorflatpartygame.gif" width="192" height="192"><br/><br/>
 </p>
 
   Really just an excuse for me to model our real flat, not only did I get a kick out of seeing our physical space recreated digitally, but thankfully so did the people who played. My favourite part of the game was breaking the assumption that the space would stay the same as it is in real life. Spoilers ahead, but by the end, a door to a new room (that doesn't exist in real life <sup><i>as far as we know...</i></sup>) opens in the walls of the flat and the whole living room turns upside down. Making a game set in a space the player is already familiar with creates unique design challenges and opportunities that you can't really get anywhere else!<br/><br/>
