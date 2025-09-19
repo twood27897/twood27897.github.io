@@ -25,13 +25,13 @@ A lot of the learning for me in creating this game was in the open world-ness of
   <img src="https://twood27897.github.io/assets/packathon.gif" width="256" height="192"><br/><br/>
 </p>
 
-  Throughout the game, I wanted to parody and reference existing real world card packs and have each one's cards have a unique mechanic for earning coins on the grid. For example, the "Top Trumps" or, in our case, "Got Stumps?" cards would need to be placed from left to right so each card had at least one stat higher than the previous card. On finishing the prototype, I felt the idea had merit but my heart wasn't in it - I wanted to make The Whale Game instead.<br/><br/>  
+  Throughout the game, I wanted to parody and reference existing real world card packs and have each one's cards have a unique mechanic for earning coins on the grid. For example, the "Top Trumps" or, in our case, "Got Stumps?" cards would need to be placed from left to right so each card had at least one stat higher than the previous card - only then would it earn coins. On finishing the prototype, I felt the idea had merit but the prototype uncovered a list of friction points that I won't get into here. In the end, this was enough for me to start work on The Whale Game instead.<br/><br/>  
 
   <b><i>Horror Flat Party Game</i></b><br/><br/>
   Created for a Halloween party me and my flatmates hosted, this was the first time I ever tried to make a horror game. In the cleverly titled Horror Flat Party Game, you are returning to our now haunted Halloween party after you accidently left your keys behind. Oops!<br/><br/>
   
 <p align="center">
-  <img src="https://twood27897.github.io/assets/backtothefuture.gif" width="192" height="192"><br/><sup><i>me, two years ago</i></sup><br/><br/>
+  <img src="https://twood27897.github.io/assets/horrorflatpartygame.gif" width="192" height="192"><br/><sup><i>me, two years ago</i></sup><br/><br/>
 </p>
 
   Really just an excuse for me to model our real flat, not only did I get a kick out of seeing our physical space recreated digitally, but thankfully so did the people who played. My favourite part of the game was breaking the assumption that the space would stay the same as it is in real life. Spoilers ahead, but by the end, a door to a new room (that doesn't exist in real life <sup><i>as far as we know...</i></sup>) opens in the walls of the flat and the whole living room turns upside down. Making a game set in a space the player is already familiar with creates unique design challenges and opportunities that you can't really get anywhere else!<br/><br/>
@@ -43,5 +43,5 @@ A lot of the learning for me in creating this game was in the open world-ness of
   <img src="https://twood27897.github.io/assets/bouncybox.gif" width="341" height="192"><br/><br/>
 </p>
   
-  From the start, I knew I wanted to experiment with taking away direct score tracking. Removing progression, obstacles or any outlined objectives to create something toy-like rather than game-like. Pretty simple! Once I'd established the basic interaction though, I found there was a lack of momentum. I added a build up of visual feedback as you hit in time with the metronome multiple times in a row. Indirect, but still giving a sense of ebb and flow that makes the toy more engaging to interact with. Maybe I failed in landing the toy-like experience I wanted by adding the very small stakes/progression of losing the visual feedback? I'm not sure.<br/><br/>
+  From the start, I knew I wanted to experiment with taking away direct score tracking. Removing progression, obstacles or any outlined objectives to create something toy-like rather than game-like. Pretty simple! Once I'd established the basic interaction though, I found there was a lack of momentum. I added a build up of visual feedback as you hit in time with the metronome multiple times in a row. Indirect, but still giving a sense of ebb and flow that makes the toy more engaging to interact with. Maybe I failed in landing the toy-like experience I wanted by adding the stakes/progression of building up and then losing the visual feedback? I'm not sure, you be the judge!<br/><br/>
 </p>
