@@ -48,5 +48,5 @@ description: Progression In Sound Guys #2
 
 In the end, as with many design challenges, most approaches have pros and cons. And often the best approach is multi-faceted. For Sound Guys, by implementing a version of all these solutions to alleviate players overfilling and "piano falling down a flight of stairs-ifying" their music, I could balance the solutions against one another to get the most out of their strengths while minimising their weaknesses. Pretty good I think! And after all that, the game is more fun to play! Sweet!<br/><br/>
 
-Play the game: <a href="https://made-by-tom.itch.io/sound-guys">made-by-tom.itch.io/sound-guys<br/>
+Play the game: <a href="https://made-by-tom.itch.io/sound-guys">made-by-tom.itch.io/sound-guys</a><br/>
 </p>
