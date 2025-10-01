@@ -45,6 +45,6 @@ Quickly, however, I found out that although the pacing felt better, there were s
 
 On reflection, I am happy with the way everything turned out. As my first attempt at making a progression system this large, I think it's reasonably good - although of course there is room for improvement. My biggest take away was the "combined" approach of using math/a graph as a jumping off point for costs etc before tweaking and adjusting through playtesting. It is an approach that rings true in a lot of game development I think. Taking the time to outline what you are trying to achieve with a design, creating a technical solution or approach that can approximate that, before finalising the design through playtesting and tweaking. I realise I am only scratching the surface of making a game's progression satisfying - if you know of any articles/videos/resources that expand on (or even make points against!) these ideas, please send them my way!<br/><br/>
 
-Read the follow up: <a href="https://helloimtw.me/pages/blogs/soundguysprogression2.html">helloimtw.me/pages/blogs/soundguysprogression2.html<br/>
-Play the game: <a href="https://made-by-tom.itch.io/sound-guys">made-by-tom.itch.io/sound-guys<br/>
+Read the follow up: <a href="https://helloimtw.me/pages/blogs/soundguysprogression2.html">helloimtw.me/pages/blogs/soundguysprogression2.html</a><br/>
+Play the game: <a href="https://made-by-tom.itch.io/sound-guys">made-by-tom.itch.io/sound-guys</a><br/>
 </p>
