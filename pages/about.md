@@ -17,8 +17,6 @@ About Me
 
 ## About Me
 
-Looking to work as a Technical Designer or Gameplay Scripter in the Games Industry!
-
 Previously worked on Everwild - a new world developed at Rare where unique and unforgettable experiences awaited! Gained my first 4 years of AAA industry experience working closely with design and code, bringing mechanics and features to life, writing C++, using visual scripting languages, writing unit tests, using Perforce and so much more as part of the gameplay team. Absorbed as much knowledge as I could and learned so much from everyone around me.
 
 I studied Computer Games Technology at Abertay University. Learning, making and playing while gaining experience with C++, DirectX, C#, OpenGL, SFML, Python and more. Averaging an A grade across all modules and continually improving and gaining confidence.
