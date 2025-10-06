@@ -20,8 +20,4 @@ My preferred methods of contact.
 
 **Email:** helloimtw@outlook.com
 
-**Phone:** 07715899554
-
-**Twitter:** <a href="https://twitter.com/helloimtw" rel="twitter.com/helloimtw">twitter.com/helloimtw</a>
-
 **LinkedIn:** <a href="https://www.linkedin.com/in/helloimtw/" rel="linkedin.com/in/helloimtw">linkedin.com/in/helloimtw</a>
