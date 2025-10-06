@@ -70,6 +70,18 @@ The eagle-eyed reader might have noticed that I have been ignoring the z positio
 To fix this I adjust the viewport position before doing any of the other calculations, exactly how I have been zeroing out the z axis of the viewport position up until now. The extra adjustments I need to make are to the x and y axis. When the player has their back turned, the viewport's x axis returns within a 0 to 1 range as if the player was facing the speaker. This is because, unless we consider the depth (i.e. z axis), the speaker is still within the viewports width. To handle this I check if the z axis of the viewport position is less than 0 (meaning the player's back is turned) and then clamp the x axis position to 0 or 1 depending on which side of the player the viewport position is on. The y axis has the same problem. When the player's back is turned but the speaker is within the viewports height then the y axis of the viewport position returns within a 0 to 1 range. Different to the x axis though I don't want to clamp the y axis to 0 or 1. Instead, I allow the y axis to move through the 0 to 1 range so that the speech bubble moves to the top/middle/bottom of the screen to show which way the dialog is coming from. When the z axis of the viewport position is negative, however, the y axis of the position is inverted so I invert it back to keep the y position of the speech bubble consistent:<br/><br/>
 
 <code>private Vector3 AdjustViewportPosition(Vector3 viewportPosition)<br/>{<br/>if (viewportPosition.z < 0.0f)<br/>{<br/>viewportPosition.x = viewportPosition.x >= 0.5f ? 0.0f : 1.0f;<br/><br/>viewportPosition.y = 1.0f - viewportPosition.y;<br/>}<br/>viewportPosition.z = 0.0f;<br/><br/>return viewportPosition;<br/>}</code><br/><br/>
+
+And with that, I have the speech bubble's body positioning itself in a somewhat reasonable way! But I'm not done yet. I still need to give the speech bubble a little point that goes in the right direction.<br/><br/>
     
   <b><i>The Point Of The Speech Bubble</i></b><br/><br/>
+
+  To start, I added an image element to my speech bubble object. I gave this image element a little triangle sprite so that it could represent the point. Now I just need to make it point in the right direction! To do this, I calculate the direction from the point's position on the screen, to the speaker's position. Making the point rotate to match this direction makes it point at the speaker:
+
+  <code>private Quaternion CalculatePointRotation()<br/>{<br/>Vector3 viewportPosition = GetAdjustedViewportPosition(transformToFollow.position);<br/><br/>Vector3 pointViewportPosition = Camera.main.ScreenToViewportPoint(dialogBoxPoint.position);<br/>pointViewportPosition.z = 0.0f;<br/><br/>Vector3 pointDirection = (viewportPosition - pointViewportPosition).normalized;<br/><br/>return Quaternion.FromToRotation(Vector3.up, pointDirection);<br/>}</code><br/><br/>
+
+  <p align="center">
+  <img src="https://twood27897.github.io/assets/packathon.gif" width="256" height="192"><br/><sup><i>the point rotates!</i></sup><br/><br/>
+</p>
+
+
 </p>
