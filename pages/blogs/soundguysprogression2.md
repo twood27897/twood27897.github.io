@@ -50,5 +50,5 @@ In the end, as with many design challenges, most approaches have pros and cons. 
 
 Play the game: <a href="https://made-by-tom.itch.io/sound-guys">made-by-tom.itch.io/sound-guys</a><br/><br/>
 
-<sup><i>The astute reader might have noticed that I had been posting weekly on a Friday up until this point! I missed last week as I was on holiday in the beautiful Orkney! So not to worry! I'll be back to posting on a Friday for the forseeble future.</i></sup><br/><br/>
+<sup><i>The astute reader might have noticed that I had been posting weekly on a Friday up until this point! I missed last week as I was on holiday in the beautiful Orkney! Don't worry though - after this week I'll be back to posting on a Friday again for the forseeble future.</i></sup><br/><br/>
 </p>
