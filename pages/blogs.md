@@ -19,8 +19,11 @@ Blogs
 <!-- I consider these <i>"blogs"</i> more as notes on a variety of technical things I've done or looked at, allowing me to record and explore ideas smaller than personal projects. The first two blogs are the first two entries I originally wrote for my portfolio - which I discarded in favour of much shorter entries - but now they have found a new home here.<br> -->
 
 <p align="center">
+<dt><a href="https://helloimtw.me/pages/blogs/applyingsolidprinciples.html" rel="Applying SOLID Design Principles">Applying SOLID Design Principles</a></dt>
+<dd><i>10th October 2025</i></dd><br>
+  
 <dt><a href="https://twood27897.github.io/pages/blogs/soundguysprogression2.html" rel="Progression In Sound Guys #2">Progression In Sound Guys #2</a></dt>
-<dd><i>1st October 2025</i></dd><br>
+<dd><i>3rd October 2025</i></dd><br>
   
 <dt><a href="https://twood27897.github.io/pages/blogs/various.html" rel="Various Side Projects #1">Various Side Projects #1</a></dt>
 <dd><i>19th September 2025</i></dd><br>
