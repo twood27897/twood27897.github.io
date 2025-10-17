@@ -27,5 +27,5 @@ I first saw this one as a comment in response to a piece of documentation that c
 
 <b>NARUTO - Never Apply Rules Unquestioningly; Think & Observe</b><br/><br/>
 
-
+Probably the most relevant acronym for this blog, I am not actually sure if it exists outside of <a href="https://www.reddit.com/r/programming/comments/1bmicj0/3_software_development_principles_i_wish_i_knew/">this</a> reddit thread. A great way to summarise how you should approach applying almost any set of rules, <i>especially</i> the ones in this blog. Always understand what you are doing and why you are doing it, don't overzealously apply and reapply any rule, think, observe, question. But also probably apply NARUTO to NARUTO! Don't think, observe and question too much!   
 </p>
