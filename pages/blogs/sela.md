@@ -19,7 +19,7 @@ YAGNI is all about not over planning and over complicating your code before you 
 
 <b>KISS - Keep It Simple Stupid</b><br/><br/>
 
-Inversely, don't make things too complex cleverclogs! KISS itself seems simple at first but when applied in a software setting it can get out of hand and begin to raise questions. Keep what simple? How can I program to solve complex problems while keeping it simple? Isn't simplicity a subjective concept anyway? I don't really think there is a right answer here. Personally, I think I like KISS most when applied to the readability of individual lines of code. Programming languages are filled with syntax and idioms that can be combined in ways that could confuse the reader. For that reason, if there is a simple way to write a line of code that doesn't require a junior engineer's head to explode upon reading, then KISS!<br/><br/>
+Inversely, don't make things too complex cleverclogs! KISS itself seems simple at first but when applied in a software setting it can get out of hand and begin to raise questions. Keep what simple? How can I program to solve complex problems while keeping it simple? Isn't simplicity a subjective concept anyway? I don't really think there is a right answer here. Personally, I think I like KISS most when applied to the readability of individual lines of code. Programming languages are filled with syntax and idioms that can be combined in ways that could confuse the reader. For that reason, if there is a simple way to write a line of code that doesn't require a junior engineer's head to explode upon reading, then keep it simple stupid!<br/><br/>
 
 <b>TMA - Too Many Acronyms</b><br/><br/>
 
