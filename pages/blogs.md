@@ -19,6 +19,9 @@ Blogs
 <!-- I consider these <i>"blogs"</i> more as notes on a variety of technical things I've done or looked at, allowing me to record and explore ideas smaller than personal projects. The first two blogs are the first two entries I originally wrote for my portfolio - which I discarded in favour of much shorter entries - but now they have found a new home here.<br> -->
 
 <p align="center">
+<dt><a href="https://helloimtw.me/pages/blogs/dreams.html" rel="Dreams in The Whale Game">Dreams in The Whale Game</a></dt>
+<dd><i>24th October 2025</i></dd><br>
+  
 <dt><a href="https://helloimtw.me/pages/blogs/sela.html" rel="SELA (Software Engineers Love Acronyms)">SELA (Software Engineers Love Acronyms)</a></dt>
 <dd><i>17th October 2025</i></dd><br>
   
