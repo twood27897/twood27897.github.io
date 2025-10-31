@@ -19,6 +19,9 @@ Blogs
 <!-- I consider these <i>"blogs"</i> more as notes on a variety of technical things I've done or looked at, allowing me to record and explore ideas smaller than personal projects. The first two blogs are the first two entries I originally wrote for my portfolio - which I discarded in favour of much shorter entries - but now they have found a new home here.<br> -->
 
 <p align="center">
+<dt><a href="https://helloimtw.me/pages/blogs/3cscameradesign.html" rel="The 3Cs: Camera (Design)">The 3Cs: Camera (Design)</a></dt>
+<dd><i>31th October 2025</i></dd><br>
+  
 <dt><a href="https://helloimtw.me/pages/blogs/dreams.html" rel="Dreams in The Whale Game">Dreams in The Whale Game</a></dt>
 <dd><i>24th October 2025</i></dd><br>
   
