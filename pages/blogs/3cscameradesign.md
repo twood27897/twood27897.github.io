@@ -50,3 +50,5 @@ The Feature Design Doc is split into two sections: one for Goals and another for
 
   With a complete Feature Design Doc, I can now start implementation on my camera. My plan is to spend the next week as my Gameplay Programmer self, whipping up systems to create the Gameplay Scenarios listed and meet the Goals required, before writing a blog summarising the process!<br/><br/>
 
+  <i>P.S. Happy Halloweeeeeeeeeeeen! (as of finishing this blog I am about to head out for a very spooky night!)</i>
+
