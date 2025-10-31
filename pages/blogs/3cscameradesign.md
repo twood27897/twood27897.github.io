@@ -38,7 +38,7 @@ In short, I looked at a number of third person games to see what their cameras d
   Now I feel like I've done enough analysis, I'll move onto creating a Feature Design Doc. The main objective here is to create a document that outlines everything that is needed from the camera by drawing from the Feature Brief and my research. Once the Feature Design Doc is done, I can then use it as a starting off point for implementation by sharing it with whoever will be working on it (in this case, me wearing another hat). There's lots of ways to structure a Feature/Game/Product/Any Design Doc. I'm going to keep mine as simple as possible. This is usually my preference, as designs usually change over time as you iterate, and keeping it simple helps alleviate headaches as chunks of over detailed design work might be made redundant as the feature progresses.<br/><br/>
 
   Similarly to my research and analysis, I am not going to detail all of my Feature Design Doc in this blog. Instead you can find it <a href="https://app.mural.co/t/asfadsf8488/m/asfadsf8488/1761929908894/9bf195df9b89447f459d76aec7f847a13123a035?sender=uc97fc6a5de48809d05dc4099">here</a>.
-</p><br/><br/>
+<br/><br/>
 
 The Feature Design Doc is split into two sections: one for Goals and another for Gameplay Scenarios. The Goals are fairly self explanatory. A high level, concise, what does this feature want to achieve list. The Gameplay Scenarios are player centered stories that uphold the goals. These are less high level, things like <i>"As I run the camera pulls out and adds a vignette"</i>. Below is the Goals section from the doc, I won't include the Gameplay Scenarios section in the blog as it is larger but if you want to see it you can look in the doc <a href="https://app.mural.co/t/asfadsf8488/m/asfadsf8488/1761929908894/9bf195df9b89447f459d76aec7f847a13123a035?sender=uc97fc6a5de48809d05dc4099">here</a>.<br/><br/>
 
@@ -51,4 +51,5 @@ The Feature Design Doc is split into two sections: one for Goals and another for
   With a complete Feature Design Doc, I can now start implementation on my camera. My plan is to spend the next week as my Gameplay Programmer self, whipping up systems to create the Gameplay Scenarios listed and meet the Goals required, before writing a blog summarising the process!<br/><br/>
 
   <i>P.S. Happy Halloweeeeeeeeeeeen! (as of finishing this blog I am about to head out for a very spooky night!)</i>
+  </p>
 
