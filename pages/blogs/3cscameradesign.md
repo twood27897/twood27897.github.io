@@ -43,7 +43,7 @@ In short, I looked at a number of third person games to see what their cameras d
 The Feature Design Doc is split into two sections: one for Goals and another for Gameplay Scenarios. The Goals are fairly self explanatory. A high level, concise, what does this feature want to achieve list. The Gameplay Scenarios are player centered stories that uphold the goals. These are less high level, things like <i>"As I run the camera pulls out and adds a vignette"</i>. Below is the Goals section from the doc, I won't include the Gameplay Scenarios section in the blog as it is larger but if you want to see it you can look in the doc <a href="https://app.mural.co/t/asfadsf8488/m/asfadsf8488/1761929908894/9bf195df9b89447f459d76aec7f847a13123a035?sender=uc97fc6a5de48809d05dc4099">here</a>.<br/><br/>
 
 <p align="center">
-  <img src="https://twood27897.github.io/assets/camera/cameragoals.png" width="822" height="472"><br/><sup><i>GOOOOAAAAALLLL(s)</i></sup><br/><br/>
+  <img src="https://twood27897.github.io/assets/camera/cameragoals.png" width="617" height="354"><br/><sup><i>GOOOOAAAAALLLL(s)</i></sup><br/><br/>
 </p>
 
   <b>Conclusion</b><br/><br/>
