@@ -3,7 +3,7 @@ layout: post
 title: 'The 3Cs: Camera (Design)'
 author: Thomas Wood
 tagline: 'The 3Cs: Camera (Design)'
-description: The 3Cs: Camera (Design)
+description: 'The 3Cs: Camera (Design)'
 ---
 
 <p align="left">
