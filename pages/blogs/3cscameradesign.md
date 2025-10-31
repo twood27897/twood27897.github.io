@@ -17,7 +17,7 @@ description: The 3Cs: Camera (Design)
 
   Here is my made up feature brief for my camera:<br/><br/>
 
-  <i>For our new third person action game we need a dynamic camera. We want to gives players front row seats as they traverse and fight their way through the game world. We don't need to worry about a cinematic camera at this stage, this camera will purely be focused on gameplay moments.</i><br/><br/>
+  <i>"For our new third person action game we need a dynamic camera. We want to gives players front row seats as they traverse and fight their way through the game world. We don't need to worry about a cinematic camera at this stage, this camera will purely be focused on gameplay moments."</i><br/><br/>
 
   Forgive a little of the vagueness, I didn't want to get caught up in coming up with a whole game idea for this exercise so I thought I'd keep the brief high level and slightly more abstract than it might be in a real game development setting.<br/><br/>
   
