@@ -28,8 +28,8 @@ Projects
     <td>      
 <p align="center">
 <a href="https://twood27897.github.io/pages/whale-game.html">
-<img border="0" alt="The Whale Game" src="http://twood27897.github.io/assets/whalegamethumbnail.png" width="256" height="144"></a><br>
-<a href="https://twood27897.github.io/pages/whale-game.html" rel="The Whale Game">The Whale Game</a>
+<img border="0" alt="Remote Working" src="http://twood27897.github.io/assets/whalegamethumbnail.png" width="256" height="144"></a><br>
+<a href="https://twood27897.github.io/pages/whale-game.html" rel="Remote Working">Remote Working</a>
 </p><br><br>
 
 <p align="center">
